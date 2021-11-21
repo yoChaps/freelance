@@ -1,0 +1,22 @@
+{
+  "name": "@freelance/ui",
+  "version": "1.0.0",
+  "description": "VueJS Freelance.com shared Design system",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "vue-cli-service build --target lib --name freelance ./src/index.js",
+    "dev": "vue-cli-service build --target lib --name freelance ./src/index.js --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vue": "~3.2.22",
+    "@vue/cli-service": "~4.5.15",
+    "vue-template-compiler": "~2.6.14"
+  },
+  "peerDependencies": {
+    "vue": "~3.2.22"
+  }
+}
