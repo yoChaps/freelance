@@ -1,6 +1,6 @@
 # Installation
 
-Require locally node > 14
+Require "node": "^14.16.0 || ^16.11.0 || ^17.0.0"
 
 
 Locally install pnpm 
