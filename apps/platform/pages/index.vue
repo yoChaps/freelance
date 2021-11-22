@@ -1,9 +1,12 @@
 <template>
-  <fl-button />
+  <div>
+    <fl-button />
+  </div>
 </template>
 
 <script>
-import { FlButton } from "@freelance/ui"
+import { FlButton } from "@freelance/ui";
+
 export default {
   components: {FlButton}
 }

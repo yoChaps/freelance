@@ -12,11 +12,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "vue": "~2.6.14",
     "@vue/cli-service": "~4.5.15",
     "vue-template-compiler": "~2.6.14",
     "css-loader": "~4.3.0",
-    "ufo": ""
+    "tailwindcss": "~2.2.19"
   },
   "peerDependencies": {
     "vue": "~2.6.14"
